@@ -1,10 +1,15 @@
 {
     "cSpell.words": [
+        "aiosqlite",
+        "autoflush",
         "dones",
         "fastapi",
+        "httpx",
         "isnot",
         "outerjoin",
+        "sessionmaker",
         "sqlalchemy",
+        "starlette",
         "unmark"
     ]
 }
